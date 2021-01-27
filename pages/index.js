@@ -19,6 +19,9 @@ export default function Home({ allPostsData }) {
         <p>
           I will be posting about various subjects as JS development with React.
         </p>
+        <p>
+          Comes from <a href="https://github.com/Damiaou/nextjs-blog">here</a>
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
