@@ -1,6 +1,6 @@
 ---
 title: "UseReducer pattern for people who still don't get it."
-date: '2020-03-12'
+date: '2021-03-12'
 ---
 
 # UseReducer pattern for people who still don't get it.
