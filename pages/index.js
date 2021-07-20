@@ -17,7 +17,7 @@ export default function Home({ allPostsData }) {
           maki
         </p>
         <p>
-          I will be posting about various subjects as JS and I'll try to figure out ;).
+          I will be posting about various subjects but I don't know them yet. So I'll come back and update this section ;).
         </p>
         <p>
           Comes from <a href="https://github.com/Damiaou/nextjs-blog">here</a>
